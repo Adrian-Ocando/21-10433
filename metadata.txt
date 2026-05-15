@@ -1,0 +1,18 @@
+-- Ejercicio 1 (AI discouraged) --
+Prompt utilizado: 
+"Este nivel de uso de IA se llama: 'AI discouraged'. Escriba dos expresiones (una para cada teorema) que representen las leyes de DeMorgan. La expresion1 DEBE ser una funcion, y DEBE asignarse a la variable de_morgan1. La expresion2 DEBE ser una funcion, y DEBE asignarse a la variable de_morgan2."
+Modelo de IA usado: Google Gemini
+
+-- Ejercicio 2 (AI discouraged) --
+Prompt utilizado: 
+"Este nivel de uso de IA se llama: 'AI discouraged'. Defina una abstracción funcional llamada succ, tal que succ(z) computa z + 1. succ(-100) retorna (99), succ(7) retorna (8)"
+Modelo de IA usado: Google Gemini
+
+-- Ejercicio 3 (AI optional) --
+Prompt utilizado: 
+"Generar una implementación en C++ para calcular el promedio y la varianza de una muestra (dividiendo entre n-1) usando las firmas double mean(vector<double> v) y double variance(vector<double> v)."
+Modelo de IA usado: Google Gemini
+
+-- Ejercicio 4 (AI encouraged) --
+Modelo de IA usado: Google Gemini
+(Nota: Prompts omitidos en este documento según las instrucciones del profesor, pero guardados localmente para cualquier revisión o entrevista).
