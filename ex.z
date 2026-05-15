@@ -1,3 +1,12 @@
-Z => Z => Z de_morgan1 := 5;
-Z => Z => Z de_morgan2 := 5;
-Z => Z succ := 5;
+// ==========================================
+// EJERCICIO 1: Leyes de De Morgan
+// ==========================================
+
+de_morgan1 = \P Q -> not (P and Q) == (not P or not Q)
+de_morgan2 = \P Q -> not (P or Q) == (not P and not Q)
+
+// ==========================================
+// EJERCICIO 2: Función Sucesor
+// ==========================================
+
+succ = \z -> z + 1
